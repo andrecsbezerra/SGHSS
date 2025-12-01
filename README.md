@@ -1,4 +1,4 @@
-# SGHSS – FastAPI (Python)
+# SGHSS –  SISTEMA DE GESTÃO HOSPITALAR E DE SERVIÇOS DE SAÚDE - FastAPI (Python)
 
 Back-end mínimo para testes no Postman com **autenticação JWT** e CRUD de **pacientes**.
 
